@@ -1,0 +1,14 @@
+.container1 {
+  display: flex;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.delete:hover {
+  cursor: pointer;
+  color: red;
+}
